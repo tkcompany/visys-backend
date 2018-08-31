@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  registration_number: MyString
+  vehicle_type: MyString
+  type_of_cylinder: MyString
+  type_of_horses: MyString
+  chassis_code: MyString
+
+two:
+  registration_number: MyString
+  vehicle_type: MyString
+  type_of_cylinder: MyString
+  type_of_horses: MyString
+  chassis_code: MyString

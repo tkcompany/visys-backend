@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
 
+  resources :cylinder_types
+  resources :vehicle_types
+  resources :vehicles
   resources :permissions
   resources :customers
 	#resources :users
