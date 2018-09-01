@@ -1,0 +1,2 @@
+class CylinderType < ApplicationRecord
+end
